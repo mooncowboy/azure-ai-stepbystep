@@ -16,14 +16,14 @@ Each lab builds upon the previous one and are split in 3 main parts:
   
 2. Working with your own data
    
-* [The RAG pattern](./labs/21-rag.ipynb)
-* [Adding your own data in Azure AI Studio](./labs/22-owndata.ipynb)
-* [Calling the Azure OpenAI service from a client application](./labs/23-clientapp.ipynb)
+* [Lab 2.1 - The RAG pattern](./labs/21-rag.ipynb)
+* [Lab 2.2 - Adding your own data in Azure AI Studio](./labs/22-owndata.ipynb)
+* [Lab 2.3 - Calling the Azure OpenAI service from a client application](./labs/23-clientapp.ipynb)
   
 3. Exploring possibilities
-* [PromptFlow](./labs/31-promptflow.ipynb)
-* [Azure AI Search - vector, semantic and hybrid search](./labs/32-search.ipynb)
-* [Azure OpenAI Assistants](./labs/33-assistants.ipynb)
+* [Lab 3.1 - PromptFlow](./labs/31-promptflow.ipynb)
+* [Lab 3.2 - Azure AI Search - vector, semantic and hybrid search](./labs/32-search.ipynb)
+* [Lab 3.3 - Azure OpenAI Assistants](./labs/33-assistants.ipynb)
 
 ## Requirements
 
