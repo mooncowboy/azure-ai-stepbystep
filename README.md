@@ -3,7 +3,7 @@ Hands on labs for the Zero to Hero motion in Portugal, specific for partners enr
 
 The labs are split into several lab and implemented as jupyter notebooks.
 
-This projects is intented as a quickstart repo for the program participants. It is srongly encouraged to read the official documentation and browse official quickstarts and tutorials, which you can find at the end of this page.
+These projects are intented as a quickstart repo for the program participants. It is srongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
 
 ## Labs
 
