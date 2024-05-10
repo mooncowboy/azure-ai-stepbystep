@@ -1,8 +1,6 @@
 # AI Zero to Hero
 Hands on labs for the Zero to Hero motion in Portugal, specific for partners enrolled in the program.
 
-The labs are split into several lab and implemented as jupyter notebooks.
-
 These projects are intented as a quickstart repo for the program participants. It is srongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
 
 ## Labs
@@ -38,3 +36,4 @@ If you choose to run this in your local environment, fork this repo and clone th
 * [Azure AI Studio Documentation](https://docs.microsoft.com/en-us/azure/ai-studio/)
 * [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 * [Build & Modernize AI Applications](https://github.com/Azure/Build-Modern-AI-Apps) (GitHub Repo)
+* [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=Q9x2GEyuZCI) (Video)
