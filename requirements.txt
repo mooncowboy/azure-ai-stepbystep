@@ -1,4 +1,6 @@
 ipykernel
+openai
+python-dotenv
 promptflow[azure] 
 promptflow-tools
 azure-ai-generative[index,evaluate,promptflow]
