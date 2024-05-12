@@ -23,7 +23,8 @@
 				"github.copilot-chat",
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"prompt-flow.prompt-flow"
 			]
 		}
 	},

@@ -1,1 +1,5 @@
 ipykernel
+promptflow[azure] 
+promptflow-tools
+azure-ai-generative[index,evaluate,promptflow]
+azure-identity
