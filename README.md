@@ -7,6 +7,10 @@ These projects are intented as a quickstart repo for the program participants. I
 
 Each lab builds upon the previous one and are split in 3 main parts:
 
+0. Introduction
+
+* [Lab 0.1 - Azure AI Services](./labs/01-aiservices.ipynb)
+
 1. Getting to know Azure AI Studio
    
 * [Lab 1.1 - Environment Setup](./labs/11-setup.ipynb)

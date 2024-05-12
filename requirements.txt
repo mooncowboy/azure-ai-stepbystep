@@ -1,4 +1,5 @@
 ipykernel
+azure-ai-documentintelligence
 openai
 python-dotenv
 promptflow[azure] 
