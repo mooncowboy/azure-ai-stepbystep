@@ -17,6 +17,7 @@ Each lab builds upon the previous one and are split in 3 main parts:
 * [Lab 2.1 - The RAG pattern](./labs/21-rag.ipynb)
 * [Lab 2.2 - Adding your own data in Azure AI Studio](./labs/22-owndata.ipynb)
 * [Lab 2.3 - Calling the Azure OpenAI service from a client application](./labs/23-clientapp.ipynb)
+* [Lab 2.4 - Use your own data from a client app](./labs/24-client-owndata.ipynb)
   
 3. Exploring possibilities
 * [Lab 3.1 - PromptFlow](./labs/31-promptflow.ipynb)
