@@ -1,4 +1,7 @@
 # AI Zero to Hero
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mooncowboy/ai-zerotohero)
+
 Hands on labs for the Zero to Hero motion in Portugal, specific for partners enrolled in the program.
 
 These projects are intented as a quickstart repo for the program participants. It is srongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
