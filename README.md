@@ -48,3 +48,4 @@ If you choose to run this in your local environment, fork this repo and clone th
 * [The AI Study Guide: Azure’s top free resources for learning generative AI in 2024](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890?WT.mc_id=modinfra-00-amycolyer) (Blog post)
 * [Vector samples - Azure AI Search](https://github.com/Azure/azure-search-vector-samples) (Samples)
 * [End to End LLM App development with Azure AI Studio and Prompt Flow](https://github.com/Azure-Samples/contoso-chat) (Samples)
+* [Introduction to Building AI Apps](https://github.com/Azure/intro-to-intelligent-apps/tree/main) (Hands on Labs)
