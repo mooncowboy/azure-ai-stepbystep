@@ -24,7 +24,8 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"ms-toolsai.jupyter",
-				"prompt-flow.prompt-flow"
+				"prompt-flow.prompt-flow",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	},
