@@ -27,9 +27,10 @@ Each lab builds upon the previous one and are split in 3 main parts:
 * [Lab 2.4 - Use your own data from a client app](./labs/24-client-owndata.ipynb)
   
 3. Exploring possibilities
-* [Lab 3.1 - PromptFlow](./labs/31-promptflow.ipynb)
-* [Lab 3.2 - Azure AI Search - vector, semantic and hybrid search](./labs/32-search.ipynb)
-* [Lab 3.3 - Azure OpenAI Assistants](./labs/33-assistants.ipynb)
+* [Lab 3.1 - Function calling](./labs/31-functions.ipynb)
+* [Lab 3.2 - Azure OpenAI Assistants](./labs/32-assistants.ipynb)
+* [Lab 3.3 - Azure AI Search - vector, semantic and hybrid search](./labs/33-search.ipynb)
+* [Lab 3.4 - PromptFlow](./labs/34-promptflow.ipynb)
 
 ## Requirements
 
