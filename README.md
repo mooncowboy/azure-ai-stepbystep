@@ -29,7 +29,7 @@ Each lab builds upon the previous one and are split in 3 main parts:
 3. Exploring possibilities
 * [Lab 3.1 - Function calling](./labs/31-functions.ipynb)
 * [Lab 3.2 - Azure OpenAI Assistants](./labs/32-assistants.ipynb)
-* [Lab 3.3 - Azure AI Search - vector, semantic and hybrid search](./labs/33-search.ipynb)
+* [Lab 3.3 - Azure AI Search](./labs/33-search.ipynb)
 * [Lab 3.4 - PromptFlow](./labs/34-promptflow.ipynb)
 
 ## Requirements
