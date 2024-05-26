@@ -51,3 +51,4 @@ If you choose to run this in your local environment, fork this repo and clone th
 * [End to End LLM App development with Azure AI Studio and Prompt Flow](https://github.com/Azure-Samples/contoso-chat) (Samples)
 * [Azure OpenAI Service Samples](https://github.com/Azure-Samples/openai) (Hands on Labs)
 * [Introduction to Building AI Apps](https://github.com/Azure/intro-to-intelligent-apps/tree/main) (Hands on Labs)
+* [Azure AI Search - configure chat document security](https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-document-security-trim?tabs=github-codespaces)
