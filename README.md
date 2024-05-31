@@ -30,7 +30,8 @@ Each lab builds upon the previous one and are split in 3 main parts:
 * [Lab 3.1 - Function calling](./labs/31-functions.ipynb)
 * [Lab 3.2 - Azure OpenAI Assistants](./labs/32-assistants.ipynb)
 * [Lab 3.3 - Azure AI Search](./labs/33-search.ipynb)
-* [Lab 3.4 - PromptFlow](./labs/34-promptflow.ipynb)
+* [Lab 3.4 - Azure AI Search with Images](./labs/34-search-images.ipynb)
+* [Lab 3.5 - PromptFlow](./labs/34-promptflow.ipynb)
 
 ## Requirements
 
@@ -45,7 +46,7 @@ If you choose to run this in your local environment, fork this repo and clone th
 * [Azure AI Studio Documentation](https://docs.microsoft.com/en-us/azure/ai-studio/)
 * [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 * [Build & Modernize AI Applications](https://github.com/Azure/Build-Modern-AI-Apps) (Samples)
-* [Vector search and state of the art retrieval for Generative AI apps | BRK206H](https://www.youtube.com/watch?v=lSzc1MJktAo)
+* [Vector search and state of the art retrieval for Generative AI apps | BRK206H](https://www.youtube.com/watch?v=lSzc1MJktAo) (video) **Highly recommended**
 * [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=Q9x2GEyuZCI) (Video)
 * [The AI Study Guide: Azure’s top free resources for learning generative AI in 2024](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890?WT.mc_id=modinfra-00-amycolyer) (Blog post)
 * [Vector samples - Azure AI Search](https://github.com/Azure/azure-search-vector-samples) (Samples)
