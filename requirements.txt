@@ -9,4 +9,4 @@ azure-identity
 pyautogen==0.2.27
 yfinance
 pillow
-azure-search-documents==11.4.0
+#azure-search-documents==11.6.0b4#11.4.0
