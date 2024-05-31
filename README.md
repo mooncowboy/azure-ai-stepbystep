@@ -26,13 +26,18 @@ Each lab builds upon the previous one and are split in 3 main parts:
 * [Lab 2.3 - Calling the Azure OpenAI service from a client application](./labs/23-clientapp.ipynb)
 * [Lab 2.4 - Use your own data from a client app](./labs/24-client-owndata.ipynb)
   
-3. Exploring possibilities
-* [Lab 3.1 - Function calling](./labs/31-functions.ipynb)
-* [Lab 3.2 - Azure OpenAI Assistants](./labs/32-assistants.ipynb)
-* [Lab 3.3 - Azure AI Search](./labs/33-search.ipynb)
-* [Lab 3.4 - Azure AI Search with Images](./labs/34-search-images.ipynb)
-* [Lab 3.5 - PromptFlow](./labs/34-promptflow.ipynb)
+3. Azure AI Search
 
+* [Lab 3.1 - Azure AI Search](./labs/31-search.ipynb)
+* [Lab 3.2 - Azure AI Search with Images](./labs/32-search-images.ipynb)
+
+4. Exploring possibilities
+
+* [Lab 4.1 - Function calling](./labs/41-functions.ipynb)
+* [Lab 4.2 - Azure OpenAI Assistants in AI Studio](./labs/42-assistants-studio.ipynb)
+* [Lab 4.3 - Azure OpenAI Assistants in code](./labs/43-assistants.ipynb)
+* [Lab 4.4 - PromptFlow](./labs/44-promptflow.ipynb)
+  
 ## Requirements
 
 This project includes a devcontainer configuration for Visual Studio Code. 
