@@ -12,11 +12,12 @@ Each lab builds upon the previous one and are split in 3 main parts:
 
 0. Introduction
 
-* [Lab 0.1 - Azure AI Services](./labs/01-aiservices.ipynb)
+* [Lab 0.1 - Pre-requisites](./labs/01-prereqs.ipynb)
+* [Lab 0.2 - Azure AI Services](./labs/02-aiservices.ipynb)
 
 1. Getting to know Azure AI Studio
    
-* [Lab 1.1 - Environment Setup](./labs/11-setup.ipynb)
+* [Lab 1.1 - Azure Environment Setup](./labs/11-azure-setup.ipynb)
 * [Lab 1.2 - Azure AI Studio Playground](./labs/12-playground.ipynb)
   
 2. Working with your own data
