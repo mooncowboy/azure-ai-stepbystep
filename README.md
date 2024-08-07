@@ -8,6 +8,8 @@ While there are many official quickstarts and tutorials available, these labs ar
 
 They are intented as a quickstart to see Azure AI in action. It is strongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
 
+![Azure AI Step by Step](./main-image.png)
+
 ## Labs
 
 Each lab builds upon the previous one and are split in 4 main parts:
