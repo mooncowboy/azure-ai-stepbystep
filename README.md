@@ -1,14 +1,16 @@
-# AI Zero to Hero
+# Azure AI Step by Step
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mooncowboy/ai-zerotohero)
 
-Hands on labs for the Zero to Hero motion in Portugal, specific for partners enrolled in the program.
+Hands on labs originally created for the Step by Step for partners motion in Portugal and now available for everyone.
 
-These projects are intented as a quickstart repo for the program participants. It is strongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
+While there are many official quickstarts and tutorials available, these labs are intented to provide a more hands-on experience with Azure AI Studio and Azure OpenAI services, in a step by step fashion, easy to follow and with a focus on the most common scenarios.
+
+They are intented as a quickstart to see Azure AI in action. It is strongly encouraged to read the official documentation and browse official quickstarts and tutorials, some of which you can find at the end of this page.
 
 ## Labs
 
-Each lab builds upon the previous one and are split in 3 main parts:
+Each lab builds upon the previous one and are split in 4 main parts:
 
 0. Introduction
 
@@ -41,7 +43,7 @@ Each lab builds upon the previous one and are split in 3 main parts:
   
 ## Requirements
 
-This project includes a devcontainer configuration for Visual Studio Code. 
+This project includes a DevContainer configuration for Visual Studio Code. 
 
 You can choose to run this in your local machine or in a GitHub Codespace (recommended). To run in a GitHub Codespace, click on the green button "Code" and select "Open with Codespaces".
 
