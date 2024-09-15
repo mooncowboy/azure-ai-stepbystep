@@ -1,3 +1,4 @@
+set -e
 virtualenv env
 source env/bin/activate
 pip install --upgrade pip
