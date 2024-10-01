@@ -64,3 +64,13 @@ If you choose to run this in your local environment, fork this repo and clone th
 * [Azure OpenAI Service Samples](https://github.com/Azure-Samples/openai) (Hands on Labs)
 * [Introduction to Building AI Apps](https://github.com/Azure/intro-to-intelligent-apps/tree/main) (Hands on Labs)
 * [Azure AI Search - configure chat document security](https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-document-security-trim?tabs=github-codespaces)
+
+
+## AI Gateway patterns
+
+* [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
+* [AI Gateway repo](https://github.com/Azure-Samples/AI-Gateway) 
+
+## GenAI Ops
+
+* [GenAI Ops blog post](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/the-future-of-ai-the-paradigm-shifts-in-generative-ai-operations/ba-p/4254216)
