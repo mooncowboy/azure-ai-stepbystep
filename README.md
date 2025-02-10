@@ -1,6 +1,6 @@
 # Azure AI Step by Step
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mooncowboy/ai-zerotohero)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mooncowboy/ai-zerotohero) [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/mooncowboy/azure-ai-stepbystep)
 
 Hands on labs originally created for the Step by Step for partners motion in Portugal and now available for everyone.
 
